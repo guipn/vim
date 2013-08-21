@@ -1,9 +1,9 @@
 "
-" guidjos
+" gpn
 "
 
-set guifont=DejaVuSansMono\ 15
-colorscheme busybee
+set guifont=Courier_New:b:h11:cANSI
+colorscheme proton
 set number
 set nowrap
 
